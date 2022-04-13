@@ -51,3 +51,11 @@
     width: 50%;
     margin-left: 2in;
 }
+.home{
+    display: inline-block;
+    margin-left: 25%;
+}
+.link{
+    display: inline-block;
+    margin-left: 21.5%;
+}
